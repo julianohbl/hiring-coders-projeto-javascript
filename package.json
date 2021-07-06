@@ -1,0 +1,23 @@
+{
+  "name": "hiring-coders-projeto-javascript",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Busca de livros</h1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianohbl/hiring-coders-projeto-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julianohbl/hiring-coders-projeto-javascript/issues"
+  },
+  "homepage": "https://github.com/julianohbl/hiring-coders-projeto-javascript#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
